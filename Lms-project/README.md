@@ -41,4 +41,11 @@
     @tailwind components;
     @tailwind utilities;
 
-5. Add <link href="./output.css" rel="stylesheet"> in  index.html under head tag
+5. Add  link tag in index.html file under head tag
+```
+    <link href="./output.css" rel="stylesheet">
+```
+
+### install dependencies :- 
+ npm install @reduxjs/toolkit react-redux react-router-dom react-icon react-chartjs-2 chart.js daisyui axios react-hot-toast 
+ npm i @tailwindcss/line-clamp
